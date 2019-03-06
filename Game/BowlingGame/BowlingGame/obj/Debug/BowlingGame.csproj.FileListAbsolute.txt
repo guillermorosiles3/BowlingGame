@@ -1,7 +1,0 @@
-C:\Users\guillermo.rosiles\Desktop\Game\BowlingGame\BowlingGame\bin\Debug\BowlingGame.exe.config
-C:\Users\guillermo.rosiles\Desktop\Game\BowlingGame\BowlingGame\bin\Debug\BowlingGame.exe
-C:\Users\guillermo.rosiles\Desktop\Game\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
-C:\Users\guillermo.rosiles\Desktop\Game\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csprojAssemblyReference.cache
-C:\Users\guillermo.rosiles\Desktop\Game\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csproj.CoreCompileInputs.cache
-C:\Users\guillermo.rosiles\Desktop\Game\BowlingGame\BowlingGame\obj\Debug\BowlingGame.exe
-C:\Users\guillermo.rosiles\Desktop\Game\BowlingGame\BowlingGame\obj\Debug\BowlingGame.pdb
